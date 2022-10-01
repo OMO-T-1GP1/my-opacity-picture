@@ -1,0 +1,12 @@
+body{
+  background-image: url(https://media.istockphoto.com/photos/floral-abstract-pastel-background-with-copy-space-picture-id901386524);
+}
+.the-p-div{
+    background-color:white;
+    width:60%;
+    margin-left:300px;
+    margin-top:300px;
+}
+img{
+    background-repeat: no-repeat;
+}
